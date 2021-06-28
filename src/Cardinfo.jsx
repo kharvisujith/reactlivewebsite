@@ -1,6 +1,3 @@
-import { Android } from "@material-ui/icons";
-
-
 import web from './images/web.jpg';
 import app from './images/app.jpg';
 import software from './images/software.jpg';
