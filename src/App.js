@@ -15,6 +15,7 @@ import Footer from './Footer';
 
 
 const App = () => {
+    document.title="Developer Adda";
     return (
         <>
         <Navbar />
